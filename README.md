@@ -45,7 +45,7 @@ ___
 
 <!-- Bloques de código -->
 ```php
-    echo "Hola mundo"
+    echo "Hola mundo";
 ```
 
 <!-- Insertar html -->
